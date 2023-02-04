@@ -27,7 +27,7 @@ I am also having some **difficult**y adjustments **changing the DNS settings** o
 
 ## Fork it!
 
-![fork it]({{site.baseurl}}/https://c.tenor.com/3hMXI_OQ8bIAAAAC/tenor.gif)
+![fork it](https://c.tenor.com/3hMXI_OQ8bIAAAAC/tenor.gif)
 
 Why do I need a website with a URL, IP address and virtual private server?  Why can't I write my blog in Markdown on a censorship resistant protocol instead? 
 
@@ -39,9 +39,8 @@ Robosats, a BTC Pay Server on clearnet,  or creating a NIP05 Identifier on githu
 Blogging Bitcoin
 
 
-![timechain]({{site.baseurl}}/https://nostr.build/i/nostr.build_fa32ffdfd403572a90fdbd2a0ddd862c5dc40e07ab8c38b075d444b2b6e9f101.png)
+![timechain](https://nostr.build/i/nostr.build_fa32ffdfd403572a90fdbd2a0ddd862c5dc40e07ab8c38b075d444b2b6e9f101.png)
 
 If you find this post valueable please consider exchaning time talent or treasure in return. Thank you.
 
 ![V4V](https://nostr.build/i/6874.png)
-
