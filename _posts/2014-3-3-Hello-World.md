@@ -6,7 +6,7 @@ published: true
 
 
 
-I Forked Myself
+# I Forked Myself
 
 
 ![+softmountain942]({{site.baseurl}}/http://paynym.is/PM8TJXVwNbJb8MGphGbijWucP3fw9mkDZ9BQT3pGkCsdFK21cR6v5xKrart2oBsqDMkxtqMGgkoTgn1NAczLznUeTwa4BG2rs1zZDfEtKin7WuBcdvcK/avatar)
@@ -40,4 +40,8 @@ Blogging Bitcoin
 
 
 ![timechain]({{site.baseurl}}/https://nostr.build/i/nostr.build_fa32ffdfd403572a90fdbd2a0ddd862c5dc40e07ab8c38b075d444b2b6e9f101.png)
+
+If you find this post valueable please consider exchaning time talent or treasure in return. Thank you.
+
+![V4V](https://nostr.build/i/6874.png)
 
