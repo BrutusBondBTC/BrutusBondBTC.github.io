@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ![censorship resistant video](https://nostr.build/i/nostr.build_b807b62aca49f67e4ba4ac0763b957f578dd395508f24f9e91a6fd1d1dd7539f.png)
