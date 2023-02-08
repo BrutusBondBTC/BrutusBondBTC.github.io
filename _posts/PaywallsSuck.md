@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Rough Draft of Paywalls Suck
